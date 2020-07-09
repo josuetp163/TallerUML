@@ -2,8 +2,8 @@
 import java.util.Date;
 
 public class Persona {
-    private String usuario,clave,nombre,apellido,cedula,direccion;
-    private Date fechaNac;
+    protected String usuario,clave,nombre,apellido,cedula,direccion;
+    protected Date fechaNac;
 
 
 
