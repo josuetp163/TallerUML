@@ -6,6 +6,7 @@ public class Doctor extends Persona {
     private String especialidad;
     private Secretaria secretariaAsignada;
     private ArrayList<Cita> citas;
+    private ArrayList<Receta> recetas;
     
     public void receta(){
 
