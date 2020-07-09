@@ -1,5 +1,8 @@
 public class PagoEfectivo implements Pago {
   protected float monto;
-  
-  boolean realizarPago(float monto){};
+
+  public boolean realizarPago(float monto){
+    return true;
+  };
+
 }

@@ -1,6 +1,6 @@
 
 public interface Pago {
 
-    boolean realizarPago(float monto);
+    public boolean realizarPago(float monto);
 
 }

@@ -2,6 +2,8 @@ public class PagoPayPal implements Pago {
   protected float monto;
   protected String email;
   
-  boolean realizarPago(float monto){};
+  public boolean realizarPago(float monto){
+    return true;
+  };
   
 }
