@@ -1,4 +1,4 @@
-impot java.util.ArrayList;
+import java.util.ArrayList;
 
 public class Secretaria extends Persona {
     private ArrayLis<Cita> citas;
