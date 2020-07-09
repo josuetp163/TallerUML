@@ -2,11 +2,10 @@ import java.util.ArrayList;
 
 public class Doctor extends Persona {
     
-    private int regDoctor;
-    private String especialidad;
-    private Secretaria secretariaAsignada;
-    private ArrayList<Cita> citas;
-    private ArrayList<Receta> recetas;
+    protected int regDoctor;
+    protected String especialidad;
+    protected Secretaria secretariaAsignada;
+    protected ArrayList<Cita> citas;
     
     public void receta(){
 
