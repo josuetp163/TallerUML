@@ -5,7 +5,7 @@ import Cita.Cita;
 import java.util.ArrayList;
 
 public class Secretaria extends Persona {
-    private ArrayLis<Cita> citas;
+    private ArrayList<Cita> citas;
     
     public void registrarCita(){}
 

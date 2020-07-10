@@ -1,5 +1,7 @@
 package Usuario;
 
+import Cita.Cita;
+
 import java.util.ArrayList;
 
 public class Doctor extends Persona {

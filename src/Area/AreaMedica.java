@@ -1,4 +1,6 @@
 package Area;
+import Usuario.Doctor;
+
 import java.util.ArrayList;
 
 public class AreaMedica {
@@ -11,5 +13,7 @@ public class AreaMedica {
     costo = c;
   }
   
-  public boolean agregarDoctor(Doctor d) {}
+  public boolean agregarDoctor(Doctor d) {
+    return true;
+  }
 }
