@@ -6,4 +6,11 @@ public class HistoriaClinica {
   protected ArrayList<String> enfermedades;
   protected ArrayList<String> alergias;
   protected ArrayList<String> otros;
+  
+  public HistoriaClinica(int n, ArrayList<String> e, ArrayList<String> a, ArrayList<String> o) {
+    nro = n;
+    enfermedades = e;
+    alergias = a;
+    otros = o;
+  }
 }
