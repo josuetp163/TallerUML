@@ -10,4 +10,6 @@ public class AreaMedica {
     especialidad = s;
     costo = c;
   }
+  
+  public boolean agregarDoctor(Doctor d) {}
 }
