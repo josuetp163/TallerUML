@@ -1,3 +1,4 @@
+package Usuario;
 
 public class Paciente extends Persona {
     protected String email;

@@ -1,3 +1,5 @@
+package Pago;
+
 import java.util.Date;
 
 public class PagoTarjeta implements Pago {

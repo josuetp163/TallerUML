@@ -1,3 +1,4 @@
+package Pago;
 
 public interface Pago {
 

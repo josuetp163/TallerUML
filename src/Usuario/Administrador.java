@@ -1,3 +1,5 @@
+package Usuario;
+
 public class Administrador extends Persona{
 
     public void registrarUsuario(){ }
