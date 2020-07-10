@@ -8,5 +8,4 @@ public class PagoTarjeta implements Pago {
   protected String banco;
 
   public boolean realizarPago(float monto){return true;};
-  
 }
